@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite id="0" name="/Users/chisomobuladike/Documents/html/fb227836-fa58-474b-8a15-26057882a288/src/components/Table.test.js" errors="0" package="/Users/chisomobuladike/Documents/html/fb227836-fa58-474b-8a15-26057882a288/src/components/Table.test.js" hostname="localhost" tests="4" failures="0" time="1.174" timestamp="2020-06-20T20:50:02">
+    <properties>
+    </properties>
+    <testcase classname="TableComponent" name="check date comparison" time="0">
+    </testcase>
+    <testcase classname="TableComponent" name="check name comparison" time="0">
+    </testcase>
+    <testcase classname="TableComponent" name="check number of rows rendered" time="0">
+    </testcase>
+    <testcase classname="TableComponent" name="check random row for sort by name" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite id="1" name="/Users/chisomobuladike/Documents/html/fb227836-fa58-474b-8a15-26057882a288/src/components/Radio.test.js" errors="0" package="/Users/chisomobuladike/Documents/html/fb227836-fa58-474b-8a15-26057882a288/src/components/Radio.test.js" hostname="localhost" tests="2" failures="0" time="0.125" timestamp="2020-06-20T20:50:03">
+    <properties>
+    </properties>
+    <testcase classname="RadioComponent" name="check if radio state changes by name" time="0">
+    </testcase>
+    <testcase classname="RadioComponent" name="check if radio state changes by age" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite id="2" name="/Users/chisomobuladike/Documents/html/fb227836-fa58-474b-8a15-26057882a288/src/App.test.js" errors="0" package="/Users/chisomobuladike/Documents/html/fb227836-fa58-474b-8a15-26057882a288/src/App.test.js" hostname="localhost" tests="1" failures="0" time="0.115" timestamp="2020-06-20T20:50:04">
+    <properties>
+    </properties>
+    <testcase classname="AppComponent" name="check if parameterState changes" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+</testsuites>
